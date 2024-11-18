@@ -1,0 +1,32 @@
+
+18:55
+h1{
+    color:violet;
+  }
+  h2{
+    color:pink;
+  }
+  h3{
+    color:blue;
+  }
+  h4{
+    color:green;
+  }
+  h5{
+    color:orange;
+  }
+  h6{
+    color:gray;
+  }
+  p{
+    color:red;
+  }
+  .title{
+    text-align:center;
+  }
+.imagen-principal{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    border: 3px solid pink;
+}

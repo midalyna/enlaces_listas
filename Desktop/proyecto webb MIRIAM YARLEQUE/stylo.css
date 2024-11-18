@@ -1,0 +1,30 @@
+h1{
+    color:rgba(157, 27, 116, 0.445);
+    text-align: center;
+}
+nav{
+    text-align: center;
+    padding: 10px;
+}
+nav li {
+    display:inline-block;
+    text-align: center;
+    margin:auto;
+    padding:10px;
+}
+nav li:hover {
+    background-color:rgb(172, 64, 131);
+    color: rgb(63, 167, 158);
+    border-radius:15px;
+}
+.lista {
+    text-align:center;
+    list-style-type: none;
+}
+.imagenes_ciudades {
+    width: 400px;
+    height: 300px;
+}
+.titulo_zapatos
+
+
